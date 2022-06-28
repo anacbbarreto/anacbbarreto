@@ -5,8 +5,8 @@
   <a href="https://github.com/anacbbarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacbbarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacbbarreto&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=anacbbarreto&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
- <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=anacbbarreto&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
+ <! -- <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=anacbbarreto&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <! --<img height="180em" src="https://activity-graph.herokuapp.com/graph?username=anacbbarreto&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
   </div>
 
    ## Techs && Skills 
