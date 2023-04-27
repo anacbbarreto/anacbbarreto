@@ -1,19 +1,13 @@
 
   ## Olá! Bem-vindo(a) ao meu perfil! 😀
-
- <div align="left">
-<div>
-<! --   <a href="https://github.com/anacbbarreto">
-    <! --  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=anacbbarreto&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
- <! -- <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=anacbbarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
- <! --<img height="170em" src="https://activity-graph.herokuapp.com/graph?username=anacbbarreto&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
-  </div>
-
+  
  
-<div style="display: inline_block"><br>
-   <a href="https://github.com/anacbbarreto">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacbbarreto&layout=compact&langs_count=7&theme=dracula"/></a>
-    <br>
+
+
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anacbbarreto&theme=blueberry&border_radius=6.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacbbarreto&layout=compact&langs_count=7&theme=blueberry"/>
+  <a href="https://github.com/anacbbarreto">
+  <br>
   <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://user-images.githubusercontent.com/64232721/176305889-9008846e-176a-468c-b820-fe1b5f809831.png">
   <img align="center" alt="CSS" height="35" width="40" src="https://user-images.githubusercontent.com/64232721/176305937-a3f35066-5207-44ea-bfff-a86ef501a722.png">
