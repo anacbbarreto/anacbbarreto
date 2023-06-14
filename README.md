@@ -13,6 +13,8 @@
   <img align="center" alt="CSS" height="35" width="40" src="https://user-images.githubusercontent.com/64232721/176305937-a3f35066-5207-44ea-bfff-a86ef501a722.png">
   <img align="center" alt="Php" height="35" width="40" src="https://user-images.githubusercontent.com/64232721/176288451-f840d1d4-7c85-4383-aafe-1610ee4aaf1e.png">
   <img align="center" alt="Java" height="35" width="40" src="https://user-images.githubusercontent.com/64232721/176305982-bdf4c565-43a5-4e0e-aab1-1561f766875f.png">
+  <img align="center" alt="C#" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+
   <br><br>
   
   
