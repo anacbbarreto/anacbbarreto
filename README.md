@@ -1,10 +1,7 @@
 
   ## Olá! Bem-vindo(a) ao meu perfil! 😀
   
- 
-
-
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anacbbarreto&theme=blueberry&border_radius=6.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+  <a href="http://github-readme-streak-stats.herokuapp.com?user=anacbbarreto&theme=blueberry&border_radius=6.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&type=png">
       <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacbbarreto&layout=compact&langs_count=7&theme=blueberry"/>
   <a href="https://github.com/anacbbarreto">
   <br>
@@ -17,7 +14,10 @@
 
   <br><br>
   
-  
+  ## Site
+ <a href="https://anacbbarreto.github.io/site/" target="_blank"><button>Site</button></a>
+
+ 
   ## Contato
  <a href="https://www.linkedin.com/in/ana-carolina-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
